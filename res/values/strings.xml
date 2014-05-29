@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BrucoBot</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="phrase1">Daaaaah!</string>
+    <string name="phrase2">Nerd sociopatico!</string>
+    <string name="button">"We Bruco, com'è?"</string>
+    <string name="phrase0">...</string>
+    <string name="actionbar_newitem">Primo item</string>
+    <string name="title_activity_insert_number_sub">InsertNumberSubActivity</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
